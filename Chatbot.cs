@@ -8,6 +8,7 @@ namespace CybersecurityChatbotWPF
 {
     public class Chatbot
     {
+        // Main chatbot class for the Cybersecurity Awareness Bot
         // Changed to internal for easier access from MainWindow.xaml.cs for state checking
         // A more robust solution would be to expose methods or properties for state management.
         internal Dictionary<string, string> userMemory = new Dictionary<string, string>();
