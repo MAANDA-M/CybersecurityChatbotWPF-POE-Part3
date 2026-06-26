@@ -151,7 +151,23 @@ namespace CybersecurityChatbotWPF
                 Options = new string[] { "A) To store files", "B) To protect a network from unauthorized access", "C) To print documents", "D) To play games" },
                 CorrectAnswer = "B",
                 Explanation = "A firewall acts as a barrier between your network and the internet, controlling incoming and outgoing network traffic."
-            });
+             });
+    
+      quizQuestions.Add(new QuizQuestion
+    {
+        Question = "Which practice helps protect your online accounts?",
+        Options = new string[]
+        {
+            "A) Using the same password everywhere",
+            "B) Enabling two-factor authentication",
+            "C) Sharing passwords with friends",
+            "D) Clicking every email link"
+        },
+        CorrectAnswer = "B",
+        Explanation = "Two-factor authentication provides an additional layer of security."
+    });
+
+}
         }
 
         // Method to start the chatbot's initial interaction
