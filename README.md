@@ -85,11 +85,11 @@ CybersecurityChatbotWPF
 
 **GitHub Repository**
 
-Paste your GitHub repository link here.
+https://github.com/MAANDA-M/CybersecurityChatbotWPF-POE-Part3
 
 **YouTube Demonstration**
 
-Paste your YouTube demonstration link here.
+https://youtu.be/5Gy9_sKBpvo
 
 ---
 
