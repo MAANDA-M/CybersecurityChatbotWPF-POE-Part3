@@ -1,49 +1,102 @@
 # Cybersecurity Awareness Chatbot
 
-## Overview
+## Programming 2A - Portfolio of Evidence (POE) Part 3
 
-This project is a Cybersecurity Awareness Chatbot developed using C# and Windows Presentation Foundation (WPF) for the Programming 2A Portfolio of Evidence (POE). The chatbot is designed to educate users about common cybersecurity threats and best practices through an interactive desktop application.
+### Student Information
+
+**Student Name:** Maanda Mariba
+
+**Module:** Programming 2A
+
+**Project:** Cybersecurity Awareness Chatbot
+
+---
+
+## Project Overview
+
+The Cybersecurity Awareness Chatbot is a desktop application developed using C# and Windows Presentation Foundation (WPF). The application is designed to educate users about common cybersecurity threats and best practices through an interactive chatbot. Users can ask cybersecurity-related questions, complete a quiz, manage cybersecurity tasks, and view an activity log.
+
+---
 
 ## Features
 
 - Interactive chatbot
-- Password safety information
+- Password security guidance
 - Phishing awareness
-- Safe browsing tips
+- Safe browsing guidance
 - Malware awareness
 - Social engineering awareness
 - User memory
-- Task management
+- Cybersecurity task management
 - Cybersecurity quiz
 - Activity log
 - Conversation history
+
+---
 
 ## Technologies Used
 
 - C#
 - Windows Presentation Foundation (WPF)
-- .NET
+- .NET Framework
 - Visual Studio 2022
+- Git
 - GitHub
 
-## How to Run
+---
 
-1. Open the solution file in Visual Studio 2022.
-2. Build the project.
-3. Run the application.
+## System Requirements
 
-## Repository
+- Windows 10 or later
+- Visual Studio 2022
+- .NET Desktop Runtime
 
-GitHub Repository:
-(Add your GitHub repository link)
+---
+
+## Running the Application
+
+1. Clone or download this repository.
+2. Open `CybersecurityChatbotWPF.sln` in Visual Studio 2022.
+3. Restore any required packages if prompted.
+4. Build the solution.
+5. Run the application.
+
+---
+
+## Project Structure
+
+```
+CybersecurityChatbotWPF
+│
+├── App.xaml
+├── App.xaml.cs
+├── MainWindow.xaml
+├── MainWindow.xaml.cs
+├── Chatbot.cs
+├── CybersecurityChatbotWPF.csproj
+├── CybersecurityChatbotWPF.sln
+├── Images
+└── README.md
+```
+
+---
 
 ## Demonstration
 
-YouTube Video:
-(Add your YouTube video link)
+**GitHub Repository**
+
+Paste your GitHub repository link here.
+
+**YouTube Demonstration**
+
+Paste your YouTube demonstration link here.
+
+---
 
 ## Author
 
-Maanda Mariba
+**Maanda Mariba**
 
-Programming 2A – Portfolio of Evidence
+Programming 2A - Portfolio of Evidence (POE) Part 3
+
+2026
